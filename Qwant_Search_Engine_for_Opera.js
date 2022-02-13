@@ -1,4 +1,4 @@
-// ==UserScript==
+// ==UserScript=
 // @name         Qwant Search Engine for Opera
 // @namespace    https://github.com/LePliex
 // @version      1.0
